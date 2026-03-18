@@ -17,6 +17,7 @@ This project is an interactive to-do list built with HTML, CSS and JavaScript. T
 ├── index.html         
 ├── styles.css         
 ├── script.js
+├── GUIDE.md
 └── README.md           
 ```
 
