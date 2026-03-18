@@ -1,7 +1,7 @@
-## To-Do List – Personal Lab
+## To-Do List - Personal Lab
 **Author:** Míriam Domínguez Martínez  
 **Date:** 2026   
-**Topic:** HTML, CSS & JavaScript – To-Do List with DOM Manipulation
+**Topic:** HTML, CSS & JavaScript - To-Do List with DOM Manipulation
 
 ---
 
